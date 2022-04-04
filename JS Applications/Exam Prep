@@ -1,9 +1,0 @@
-to install the dependencies - npm i in the terminal.
-
-to run the http server - npm run start.
-
-to run the tests - npm test.
-
-to start the softuni server - write cd server in the terminal then write node server.js.
-
-
